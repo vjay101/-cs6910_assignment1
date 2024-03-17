@@ -29,4 +29,4 @@ parameters:
 
 
 
-wandb agent cs22m094/DeepLearning/obidsx02
+
